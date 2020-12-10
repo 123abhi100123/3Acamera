@@ -33,7 +33,7 @@ printf "          \e[1;77m v1.1 The { 3Acam }\e[0m \n"
 printf "\n"
 
 echo "      N073:> PLEASE TURN ON YOUR HOTSPOT 
-                   OR ELSE YOU DONT GET LINK....!"
+                   IF YOU ARE USING DURBASHYANTRA....!"
 
 }
 
